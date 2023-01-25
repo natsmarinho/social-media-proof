@@ -66,9 +66,6 @@ header p{
     margin-top: 4.6rem;
 }
 
-.user-comment:nth-child(3){
-    margin-bottom: 10rem;
-}
 
 .user-comment p{
     color: white;
@@ -102,3 +99,78 @@ header p{
     color: #EE69A4;
 }
 
+@media screen and (min-width: 1025px){
+    header h1{
+        text-align: start;
+        position: absolute;
+        width: 44.5rem;
+        font-size: 5.6rem;
+        top: 6rem;
+        left: 14rem;
+    }
+
+    header p{
+        position: absolute;
+        top: 26rem;
+        font-size: 1.9rem;
+        width: 44.5rem;
+        left: 14rem;
+        text-align: start;
+    }
+
+    .rates{
+        width: 42rem;
+    }
+
+    .first{
+        position: absolute;
+        top: 16rem;
+        left: 73.5rem;
+    }
+
+    .second{
+        position: absolute;
+        top: 25rem;
+        left: 78.3rem;
+    }
+
+    .third{
+        position: absolute;
+        top: 34rem;
+        left: 83rem;
+    }
+
+    .stars{
+        position: absolute;
+        top: 1.2rem;
+        left: 3rem;
+    }
+
+    .rates p{
+        position: absolute;
+        top: 2.8rem;
+        left: 15rem;
+    }
+
+    .user-comment{
+        position: absolute;
+        width: 35rem;
+    }
+
+    .fourth{
+        top: 43rem;
+        left: 16rem;
+    }
+
+    .fifth{
+        left: 53.5rem;
+        top: 49rem;
+    }
+
+    .sixth{
+        top: 51rem;
+        left: 90.5rem;
+       
+    }
+
+}
