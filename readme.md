@@ -10,7 +10,7 @@
   - Continued development: I have to continue practice how to manipulate DOM, elements and mobilefirst. 
 - Author: Natali Marinho. 
 - Acknowledgments: javascript, css and html.
-- Deploy: 
+- Deploy: https://natsmarinho.github.io/social-media-proof/
 
 
 ### Screenshot
